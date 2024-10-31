@@ -1,0 +1,44 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.sg-container p[for="latlong"] {
+    display: flex;
+}
+
+.sg-container label:nth-child(odd) {
+    width: 48%;
+    margin: auto;
+    margin-left: 0px;
+}
+
+.sg-container label:nth-child(even) {
+    width: 48%;
+    margin: auto;
+    margin-right: 0px;
+}
+
+p[for="latlong"] label>span {
+    width: 100%;
+    display: block;
+}
+
+p[for="latlong"] label>input {
+    width: 100%;
+}
+
+.gm-svpc>div {
+    position: relative !important;
+}
+.detect-my-location {
+    font-size: 14px;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+}
+.detect-my-location-description {
+    display: block;
+    line-height: 16px;
+    margin-bottom: 12px;
+    font-size: 12px;
+}

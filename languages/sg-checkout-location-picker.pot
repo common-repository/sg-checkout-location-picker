@@ -1,0 +1,282 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: \n"
+"POT-Creation-Date: 2024-04-18 07:15+0000\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: sg-checkout-location-picker.php:71
+msgid "</b> plugin to work. Please ensure that they are activated: "
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:183
+msgid "Add Sg Woocommerce checkout location picker Settings below"
+msgstr ""
+
+#: sg-checkout-location-picker.php:120
+msgid "already did"
+msgstr ""
+
+#: admin/partials/sg-checkout-location-picker-admin-metabox.php:10
+msgid "Billing Location"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:356
+msgid "Billing location in map"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:45
+msgid "Cancel"
+msgstr ""
+
+#: public/class-sg-checkout-location-picker-public.php:166
+msgid ""
+"Click the \"Detect Current Location\" button then move the red marker to "
+"your desired shipping address."
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:245
+msgid "detect current location"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:238
+msgid "Detect user location on loading"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:190
+msgid "Disable"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:41
+msgid "Do not send my e-mail address with this feedback"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:126
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:191
+msgid "Enable for billing"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:193
+msgid "Enable for billing & Shipping"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:192
+msgid "Enable for shipping"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:188
+msgid "Enable Location Picker"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:132
+msgid "Free Support"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:144
+msgid "Get Premium"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:201
+msgid "Google API"
+msgstr ""
+
+#: sg-checkout-location-picker.php:116
+#, php-format
+msgid ""
+"Hello! Seems like you have been using %s for a while – that’s awesome! Could "
+"you please do us a BIG favor and give it a 5-star rating on WordPress? This "
+"would boost our motivation and help us spread the word."
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:119
+msgid "Helpfull Links"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:121
+msgid "Helpfull Links for settings page"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:231
+msgid "Hide latitude/longitude text field from checkout page."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://sevengits.com/plugin/sg-checkout-location-picker-pro/"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:59
+msgid "I don't need this plugin any more"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:60
+msgid "I found a better plugin"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:38
+msgid "If you would be kind enough, please tell us why you're deactivating?"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:61
+msgid "It's a temporary deactivation, I'm troubleshooting"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:207
+msgid "Label for billing map area"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:215
+msgid "Label for shipping map"
+msgstr ""
+
+#: admin/partials/sg-checkout-location-picker-admin-billing-display.php:33
+#: admin/partials/sg-checkout-location-picker-admin-metabox.php:15
+#: admin/partials/sg-checkout-location-picker-admin-metabox.php:35
+#: admin/partials/sg-checkout-location-picker-admin-shipping-display.php:33
+#: public/partials/sg-checkout-location-picker-public-billing-display.php:35
+msgid "Latitude"
+msgstr ""
+
+#: public/partials/sg-checkout-location-picker-public-shipping-display.php:35
+msgid "Latitude:"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:223
+msgid "Location data on admin email"
+msgstr ""
+
+#: admin/partials/sg-checkout-location-picker-admin-billing-display.php:34
+#: admin/partials/sg-checkout-location-picker-admin-metabox.php:21
+#: admin/partials/sg-checkout-location-picker-admin-metabox.php:41
+#: admin/partials/sg-checkout-location-picker-admin-shipping-display.php:34
+#: public/partials/sg-checkout-location-picker-public-billing-display.php:42
+msgid "Longitude"
+msgstr ""
+
+#: public/partials/sg-checkout-location-picker-public-shipping-display.php:39
+msgid "Longitude:"
+msgstr ""
+
+#: sg-checkout-location-picker.php:119
+msgid "Nope, maybe later I"
+msgstr ""
+
+#: sg-checkout-location-picker.php:118
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:62
+msgid "Other"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:43
+msgid "Please give us any feedback that could help us improve"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:40
+msgid "Please tell us the reason so we can improve the plugin"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:39
+msgid "Please tell us which plugin?"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:48
+msgid "Please wait"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:37
+msgid "Quick Feedback"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:138
+msgid "Request Customization"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:224
+msgid "Send user submitted longitude/latitude data on new admin order email"
+msgstr ""
+
+#: public/partials/sg-checkout-location-picker-public-billing-display.php:21
+msgid "Set your billing location in map"
+msgstr ""
+
+#: public/partials/sg-checkout-location-picker-public-shipping-display.php:23
+msgid "Set your shipping location in map"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sevengits"
+msgstr ""
+
+#. Name of the plugin
+msgid "Sg Checkout Location Picker for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Sg Checkout Location Picker for WooCommerce  help customers to pin point "
+"their geo location on map in woocommerce checkout page."
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:263
+msgid "SG Location Picker Settings"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:182
+msgid "Sg Woocommerce Checkout Location Picker"
+msgstr ""
+
+#: admin/partials/sg-checkout-location-picker-admin-metabox.php:30
+msgid "Shipping Location"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:363
+msgid "Shipping location in map"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:244
+msgid "Show detect current location button"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:230
+msgid "Show map only"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:46
+msgid "Skip &amp; Deactivate"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:47
+msgid "Submit &amp; Deactivate"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:49
+msgid "Thank you!"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:58
+msgid "The plugin broke my site"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:57
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:208
+msgid "This title displays the billing map section. Leave it blank to hide"
+msgstr ""
+
+#: admin/class-sg-checkout-location-picker-admin.php:216
+msgid "This title displays the shipping map section. Leave it blank to hide"
+msgstr ""
+
+#: admin/partials/sg-checkout-location-picker-admin-billing-display.php:35
+#: admin/partials/sg-checkout-location-picker-admin-shipping-display.php:37
+msgid "View in map"
+msgstr ""

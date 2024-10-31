@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Language: et\n"
+"POT-Creation-Date: 2020-09-21 10:31+0000\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"PO-Revision-Date: 2020-09-21 14:29+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Project-Id-Version: Sg Woocommerce Checkout Location Picker\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Store 2\n"
+"Language-Team: Estonian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: admin/class-sg-checkout-location-picker-admin.php:160
+msgid "Eg :13"
+msgstr ""
+
+#: public/partials/sg-checkout-location-picker-public-shipping-display.php:30
+msgid "Latitude:"
+msgstr "laiuskraad:"
+
+#: public/partials/sg-checkout-location-picker-public-shipping-display.php:34
+msgid "Longitude:"
+msgstr "pikkuskraad:"
+
+#. Name of the plugin
+msgid "Sg Woocommerce Checkout Location Picker"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"SG Woocommerce Checkout Location Picker  help customers to pin point their "
+"geo location on map in woocommerce checkout page."
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://sevengits.com/product/sg-woocommerce-checkout-location-picker-pro/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sevengits"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://sevengits.com/"
+msgstr ""
